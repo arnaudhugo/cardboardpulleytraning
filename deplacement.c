@@ -1,11 +1,11 @@
 /*
-1;3801;0c** deplacement.c for  in /home/arnaud/CPT
+** deplacement.c for  in /home/arnaud/CPT
 ** 
 ** Made by ARNAUD Hugo
 ** Login   <arnaud_h@etna-alternance.net>
 ** 
 ** Started on  Thu Oct  5 21:56:51 2017 ARNAUD Hugo
-** Last update Thu Oct  5 22:25:17 2017 ARNAUD Hugo
+** Last update Thu Oct  5 22:26:15 2017 ARNAUD Hugo
 */
 #include "not_mg_vr"
 #include <unistd.h>
