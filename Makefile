@@ -1,11 +1,11 @@
 ##
-## Makefile for  in /home/arnaud/libmy_01
+## Makefile for  in /home/arnaud/CPT
 ## 
 ## Made by ARNAUD Hugo
 ## Login   <arnaud_h@etna-alternance.net>
 ## 
-## Started on  Sat Sep 30 09:12:28 2017 ARNAUD Hugo
-## Last update Thu Oct  5 19:42:26 2017 ARNAUD Hugo
+## Started on  Thu Oct  5 19:43:10 2017 ARNAUD Hugo
+## Last update Thu Oct  5 19:43:12 2017 ARNAUD Hugo
 ##
 CC	= gcc
 NAME	= libmy.a
