@@ -5,7 +5,7 @@
 ** Login   <arnaud_h@etna-alternance.net>
 ** 
 ** Started on  Thu Oct  5 21:56:51 2017 ARNAUD Hugo
-** Last update Thu Oct  5 22:26:15 2017 ARNAUD Hugo
+** Last update Fri Oct  6 09:55:27 2017 ARNAUD Hugo
 */
 #include "not_mg_vr"
 #include <unistd.h>
@@ -18,6 +18,8 @@ void	my_putchar(char c)
 typedef struct s_char
 {
   unsigned int id;
+  e_char;
+  tab;
 } t_char;
 
 typedef enum e_char e_char;
