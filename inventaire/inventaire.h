@@ -10,7 +10,7 @@ void	my_putchar(char c)
 
 typedef struct s_inventaire
 {
-  str obj;
+  char obj[5];
   struct s_inventaire *next;
 } t_inventaire;
 
