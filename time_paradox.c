@@ -1,11 +1,11 @@
 /*
-** main.c for  in /home/arnaud/CPT/time_paradox
+** time_paradox.c for Cardboard Pulley Training in /home/arnaud/CPT/time_paradox
 ** 
 ** Made by ARNAUD Hugo
 ** Login   <arnaud_h@etna-alternance.net>
 ** 
-** Started on  Fri Oct  6 21:32:57 2017 ARNAUD Hugo
-** Last update Fri Oct  6 22:08:02 2017 ARNAUD Hugo
+** Started on  Sat Oct  7 11:32:24 2017 ARNAUD Hugo
+** Last update Sat Oct  7 11:32:26 2017 ARNAUD Hugo
 */
 #include <unistd.h>
 #include <stdlib.h>
