@@ -5,7 +5,7 @@
 ** Login   <arnaud_h@etna-alternance.net>
 ** 
 ** Started on  Sat Oct  7 09:45:04 2017 ARNAUD Hugo
-** Last update Sat Oct  7 10:16:01 2017 ARNAUD Hugo
+** Last update Sat Oct  7 13:14:52 2017 ARNAUD Hugo
 */
 #include "cardboard.h"
 
@@ -41,12 +41,10 @@ t_inventaire	*get_item(t_inventaire list, char obj)
 
 t_inventaire set_item()
 {
-
 }
 
 t_inventaire del_item(t_inventaire *liste)
-{
-  
+{ 
 }
 
 int		main()

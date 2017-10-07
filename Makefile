@@ -5,15 +5,14 @@
 ## Login   <arnaud_h@etna-alternance.net>
 ## 
 ## Started on  Sat Sep 30 09:12:28 2017 ARNAUD Hugo
-## Last update Sat Oct  7 11:47:32 2017 ARNAUD Hugo
+## Last update Sat Oct  7 13:16:22 2017 ARNAUD Hugo
 ##
 CC	= gcc
 NAME	= not_mg_vr.a
 SRC	= cardboard.h		\
 	  orientation.c		\
 	  deplacement.c		\
-	  inventaire.c		\
-	  action.c		\
+	  actions.c		\
 	  time_paradox.c	\
 	  my_putchar.c		\
 	  my_putstr.c		\
